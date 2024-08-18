@@ -1,16 +1,16 @@
 {
   "files": {
-    "main.css": "/devVivekrao/sample-react-app/static/css/main.f855e6bc.css",
-    "main.js": "/devVivekrao/sample-react-app/static/js/main.4a3f757c.js",
-    "static/js/453.ccb1b8a3.chunk.js": "/devVivekrao/sample-react-app/static/js/453.ccb1b8a3.chunk.js",
-    "static/media/logo.svg": "/devVivekrao/sample-react-app/static/media/logo.6ce24c58023cc2f8fd88fe9d219db6c6.svg",
-    "index.html": "/devVivekrao/sample-react-app/index.html",
-    "main.f855e6bc.css.map": "/devVivekrao/sample-react-app/static/css/main.f855e6bc.css.map",
-    "main.4a3f757c.js.map": "/devVivekrao/sample-react-app/static/js/main.4a3f757c.js.map",
-    "453.ccb1b8a3.chunk.js.map": "/devVivekrao/sample-react-app/static/js/453.ccb1b8a3.chunk.js.map"
+    "main.css": "/sample-react-app/static/css/main.f855e6bc.css",
+    "main.js": "/sample-react-app/static/js/main.b6bf0132.js",
+    "static/js/453.ccb1b8a3.chunk.js": "/sample-react-app/static/js/453.ccb1b8a3.chunk.js",
+    "static/media/logo.svg": "/sample-react-app/static/media/logo.6ce24c58023cc2f8fd88fe9d219db6c6.svg",
+    "index.html": "/sample-react-app/index.html",
+    "main.f855e6bc.css.map": "/sample-react-app/static/css/main.f855e6bc.css.map",
+    "main.b6bf0132.js.map": "/sample-react-app/static/js/main.b6bf0132.js.map",
+    "453.ccb1b8a3.chunk.js.map": "/sample-react-app/static/js/453.ccb1b8a3.chunk.js.map"
   },
   "entrypoints": [
     "static/css/main.f855e6bc.css",
-    "static/js/main.4a3f757c.js"
+    "static/js/main.b6bf0132.js"
   ]
 }
